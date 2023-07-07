@@ -5,5 +5,4 @@
 - HTML
 - Bootstrap
 - JavaScript
-### Author
-Achyut Dwivedi
+
